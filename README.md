@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="docs/.gitbook/assets/fhevm-header-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="docs/.gitbook/assets/fhevm-header-light.png">
   <img width=500 alt="fhevm">
+  <!--<img width=500 alt="fhevm">-->
 </picture>
 </p>
 
