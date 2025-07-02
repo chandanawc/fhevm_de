@@ -35,6 +35,10 @@
 
 **FHEVM** is the core framework of the *Zama Confidential Blockchain Protocol*. It enables confidential smart contracts on EVM-compatible blockchains by leveraging Fully Homomorphic Encryption (FHE), allowing encrypted data to be processed directly onchain.
 
+### What is FHEVM?
+
+**FHEVM** is the core framework of the *Zama Confidential Blockchain Protocol*. It enables confidential smart contracts on EVM-compatible blockchains by leveraging Fully Homomorphic Encryption (FHE), allowing encrypted data to be processed directly onchain.
+
 FHEVM ensures both confidentiality and composability, with the following guarantees:
 - **End-to-end encryption of transactions and state:** Data included in transactions is encrypted and never visible to anyone.
 - **Composability and data availability on-chain:** States are updated while remaining encrypted at all times.
